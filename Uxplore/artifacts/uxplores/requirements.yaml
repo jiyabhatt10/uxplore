@@ -1,0 +1,15 @@
+packages:
+  "framer-motion": "For premium scroll animations, page transitions, and sophisticated interactions"
+
+images:
+  - path: "artifacts/uxplores/public/images/hero-bg.png"
+    description: "Abstract 3D fluid mesh in deep indigo, violet, and pitch black. Premium, moody, and sophisticated, perfect for a dark-mode agency hero section background."
+    aspect_ratio: "16:9"
+  - path: "artifacts/uxplores/public/images/abstract-shape.png"
+    description: "Abstract floating dark glass geometry (like a sphere or twisted torus) with subtle purple neon edge lighting, completely black background, high-end 3D render."
+    aspect_ratio: "1:1"
+
+notes:
+  - "Multi-page marketing site for a premium design agency"
+  - "Uses framer-motion for high-end scroll reveal effects"
+  - "Dark mode default styling with glassmorphism effects"
